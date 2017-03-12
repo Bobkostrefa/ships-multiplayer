@@ -1,0 +1,7 @@
+[package]
+name = "Statki"
+version = "0.1.0"
+authors = ["632512 <wsopoe@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.11"
